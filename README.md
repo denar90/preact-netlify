@@ -1,4 +1,4 @@
-# blog
+# blog-test
 
 ## CLI Commands
 
